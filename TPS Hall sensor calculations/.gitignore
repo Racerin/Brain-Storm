@@ -1,0 +1,5 @@
+# Avoid Virtual Environment
+venv
+
+# Noise files
+*__pycache__
